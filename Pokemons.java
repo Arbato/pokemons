@@ -14,7 +14,6 @@ public class Pokemons {
         b.go();
     }
 }
-//ddsdsd
 
 class Facade extends PhysicalMove {
     public Facade() {
